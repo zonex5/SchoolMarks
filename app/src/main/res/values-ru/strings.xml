@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Оценки 2.0</string>
+    <string name="action_settings">ОЧИСТИТЬ</string>
+    <string name="media">Средняя</string>
+    <string name="project">Курсовой</string>
+    <string name="examen">Экзамен</string>
+    <string name="general">Общая</string>
+    <string name="marks">Оценки:</string>
+    <string name="student_s_marks">Оценки ученика</string>
+</resources>

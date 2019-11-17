@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Marks 2.0</string>
+    <string name="action_settings">CLEAR</string>
+    <string name="media">Media</string>
+    <string name="project">Project</string>
+    <string name="examen">Examen</string>
+    <string name="general">General</string>
+    <string name="marks">Marks:</string>
+    <string name="student_s_marks">Student\'s marks</string>
+</resources>

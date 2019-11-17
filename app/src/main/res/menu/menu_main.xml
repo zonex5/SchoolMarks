@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context="biz.toway.marks_2_0.MainActivity">
+    <item android:id="@+id/btClear"
+          android:title="@string/action_settings"
+          android:orderInCategory="100"
+          app:showAsAction="always"/>
+</menu>
