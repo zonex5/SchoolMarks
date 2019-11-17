@@ -1,4 +1,4 @@
-# SchoolMarks
+# SchoolMarks (Android)
 Программа для подсчета среднего балла ученика колледжа (Республика Молдова)
 
 <img src="https://ru.inettools.net/upload/lgUBUHvFEUDKYjGfbL6kH8VkxnV2lPXlphkZlydY/screenshot_1574024496.5uIg3.png">
