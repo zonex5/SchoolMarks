@@ -1,6 +1,5 @@
 # SchoolMarks (Android)
-Программа для подсчета среднего балла ученика колледжа (Республика Молдова)
+A program for calculating the average grade of a college student (Republic of Moldova)
 
-<img src="https://ru.inettools.net/upload/lgUBUHvFEUDKYjGfbL6kH8VkxnV2lPXlphkZlydY/screenshot_1574024496.5uIg3.png">
+![image](https://github.com/zonex5/SchoolMarks-Android/assets/10675813/8478b125-38f1-4f40-8237-96709b4744e4)
 
-<img src="https://ru.inettools.net/upload/lgUBUHvFEUDKYjGfbL6kH8VkxnV2lPXlphkZlydY/screenshot_1574024540.3u6t6.png">
